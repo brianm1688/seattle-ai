@@ -1,2 +1,2 @@
 # aiclass.github.io
-AI workshop
+It is for AI workshop
